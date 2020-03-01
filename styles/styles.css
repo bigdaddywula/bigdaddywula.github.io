@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Gabriolala;
+    src: url("../fonts/Gabriola.ttf");
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {   
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#lorem {
+    font-family: Gabriolala, sans-serif;
+    font-size: 3em;
+    font-style: italic;
+}
+
+.mid {
+    text-align: center;
+}
+
+.foot {
+    color: gray;
+    font-size: smaller;
+    font-style: italic;
+}
